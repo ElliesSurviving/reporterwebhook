@@ -3,9 +3,13 @@ dead simple discord webhook to report on system information of your server
 
 ## basic setup
 git clone the repo
+
 install the required pip modules (discord_webhook, psutil)
+
 add a webhook in your discord server on a dedicated channel
+
 edit the src to add your webhook url (sienna kindly made a dedicated section for this)
+
 either manually run the program with `python3` or set a cron job to run it on schedule
 
 ## contributing
